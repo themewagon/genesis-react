@@ -16,7 +16,7 @@ export default function Footer() {
             transition={{ duration: 0.5 }}
         >
             <a href="#!">
-                <img src='/assets/logo.svg' alt='logo' className='h-8.5 w-auto' width={205} height={48} />
+                <img src='/genesis-react/assets/logo.svg' alt='logo' className='h-8.5 w-auto' width={205} height={48} />
             </a>
 
             <div className="flex flex-wrap items-center justify-center gap-8 py-8">

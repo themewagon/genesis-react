@@ -39,7 +39,7 @@ export default function Navbar() {
                 transition={{ type: "spring", stiffness: 250, damping: 70, mass: 1 }}
             >
                 <a href='#!'>
-                    <img src='/assets/logo.svg' alt='logo' className='h-8.5 w-auto' width={205} height={48} />
+                    <img src='/genesis-react/assets/logo.svg' alt='logo' className='h-8.5 w-auto' width={205} height={48} />
                 </a>
 
                 <div className='hidden items-center space-x-10 md:flex'>

@@ -8,21 +8,21 @@ const steps = [
         title: "Start with a prompt",
         description: "Start with a simple prompt describing what you want your agent to do. Our builder interprets your idea and creates the structure for you in seconds",
         link: "#!",
-        image: "/assets/workflow1.png",
+        image: "/genesis-react/assets/workflow1.png",
     },
     {
         id: 2,
         title: "Adjust and personalize",
         description: "Adjust tasks, actions and integrations. Add personality, rules and data sources to make the agent work exactly the way you want.",
         link: "#!",
-        image: "/assets/workflow2.png",
+        image: "/genesis-react/assets/workflow2.png",
     },
     {
         id: 3,
         title: "Launch & Automate",
         description: "Deploy your agent and let it run. It executes tasks autonomously, reports results, and continues working in the background.",
         link: "#!",
-        image: "/assets/workflow3.png",
+        image: "/genesis-react/assets/workflow3.png",
     },
 ];
 
